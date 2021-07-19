@@ -1,4 +1,4 @@
-# Ageing_Sign
+# Ageing_Sign_Detection
 Verzeo ML Ageing Sign Batch 21 </br>
 Instruction manual </br>
 Project Title: Signs of Ageing</br>
